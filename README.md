@@ -4,4 +4,4 @@
 ```
 cin>>heloo;
 cout<<"print";
-```
+```cpp
