@@ -2,6 +2,8 @@
 
 `JOGESH`
 ```
-cin>>heloo;
-cout<<"print";
-```cpp
+var add2 = function(number) {
+	return number + 2;
+}
+```js
+
